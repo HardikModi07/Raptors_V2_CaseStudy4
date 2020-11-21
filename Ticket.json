@@ -1,18 +1,18 @@
 {
     "tickets": [{
-            "ticketType": "Balcony Level",
-            "ticketQty": 12,
-            "ticketPrice": 1170
+            "type": "Balcony Level",
+            "amount": 12,
+            "price": 1170
         },
         {
-            "ticketType": "Lower Level",
-            "ticketQty": 20,
-            "ticketPrice": 10434
+            "type": "Lower Level",
+            "amount": 20,
+            "price": 10434
         },
         {
-            "ticketType": "Courtside",
-            "ticketQty": 15,
-            "ticketPrice": 27777
+            "type": "Courtside",
+            "amount": 15,
+            "price": 27777
         }
     ]
 }
